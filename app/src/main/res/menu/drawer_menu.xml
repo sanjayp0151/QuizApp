@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home" android:id="@+id/btnHome" />
+    <item android:title="Profile" android:id="@+id/btnProfile" />
+    <item android:title="Upload Question" android:id="@+id/btnUploadQuestion" />
+    <item android:title="Rate Us" android:id="@+id/btnRateUs" />
+    <item android:title="Follow" android:id="@+id/btnFollowUs" />
+</menu>
